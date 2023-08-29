@@ -24,4 +24,4 @@ Relevance label equals 1 for relevant personnel, and 0 for irrelevant personnel.
 
 Please cite the following paper if you use our dataset.
 
-*Automated Irrelevant Individuals Recognition in Video via Spatial-Temporal Features.*
+*Automated Irrelevant Individuals Recognition in Video via Enhanced Multi-object Tracking Algorithm.*
